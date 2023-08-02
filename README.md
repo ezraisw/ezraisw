@@ -2,7 +2,7 @@ Hello! Call me Ezra.
 
 <p>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=pwnedgod&show_icons=true&theme=dracula" alt="pwnedgod" />
+        <img src="https://github-readme-stats.inspw.com/api?username=pwnedgod&show_icons=true&theme=dracula" alt="pwnedgod" />
     </a>
 </p>
 
@@ -20,6 +20,6 @@ Hello! Call me Ezra.
 
 <p>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pwnedgod&show_icons=true&theme=dracula&layout=compact" alt="pwnedgod" />
+        <img src="https://github-readme-stats.inspw.com/api/top-langs?username=pwnedgod&show_icons=true&theme=dracula&layout=compact" alt="pwnedgod" />
     </a>
 </p>
