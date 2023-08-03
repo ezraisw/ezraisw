@@ -23,5 +23,5 @@
 </p>
 
 <p align="center">
-    <sub><sup>Disclaimer: Stats listed here includes work on private repositories.</sup></sub>
+    <sub><sup>Note: Stats listed here includes work on private repositories.</sup></sub>
 </p>
