@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=pwnedgod&theme=algolia&no-bg=true&row=2&column=3&margin-w=8&margin-h=8" alt="pwnedgod" />
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.inspw.com/api/top-langs?username=pwnedgod&show_icons=true&theme=transparent&layout=compact&card_width=346" alt="pwnedgod" />
     </a>
 </p>
 
@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.inspw.com/api/top-langs?username=pwnedgod&show_icons=true&theme=transparent&layout=compact&card_width=346" alt="pwnedgod" />
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.inspw.com/?username=pwnedgod&theme=algolia&no-bg=true&column=3&margin-w=8&margin-h=8" alt="pwnedgod" />
     </a>
 </p>
