@@ -21,3 +21,7 @@
         <img src="https://github-profile-trophy.inspw.com/?username=pwnedgod&theme=algolia&no-bg=true&column=3&margin-w=8&margin-h=8" alt="pwnedgod" />
     </a>
 </p>
+
+<p align="center">
+    <sub><sup>Disclaimer: Stats listed here includes work on private repositories.</sup></sub>
+</p>
